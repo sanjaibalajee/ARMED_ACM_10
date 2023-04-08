@@ -13,7 +13,7 @@ The solution aims to tackle the issue of the lack of confidence and knowledge of
 
 
 
-##Steps to run
+## Steps to run
 
 1. In the Packages dir, Open the RTF file and download the unity package file with the link inside it 
 2. Open Unity Hub, Create new project and import the downloaded Package

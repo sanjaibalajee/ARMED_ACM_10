@@ -1,5 +1,4 @@
-# ArMed
-### An AR Learning Platform
+# ArMed, An AR Learning Platform
 
 
 

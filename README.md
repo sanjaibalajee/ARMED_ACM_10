@@ -10,7 +10,7 @@ ArMed, our first aid training app, allows trainees to practice performing CPR on
 The solution aims to tackle the issue of the lack of confidence and knowledge of first aid among people. Timely medical help and first aid can minimise risk of complications, improve chances of treatment and potentially save patients’ lives. By providing a more interactive and engaging way to learn first aid, our solution empowers people to become more confident and capable in emergency situations. Our solution has the potential to increase the number of people with formal first aid training, which can ultimately save more lives.
 
 
-# Demo Video : https://drive.google.com/file/d/1-WlX4LvgM1UwBfQe9Q6zuwaNSTJblcVw/view?usp=sharing
+
 
 ## Steps to run
 

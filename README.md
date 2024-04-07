@@ -1,7 +1,8 @@
 # ArMed
 ### An AR Learning Platform
 
-Image Targets/Thumbnail1.png
+https://github.com/sanjaibalajee/ARMED_ACM_10/blob/master/Image%20Targets/Thumbnail1.png?raw=true![image](https://github.com/sanjaibalajee/ARMED_ACM_10/assets/87613424/131dbacd-58e3-4e85-bfcb-0ca7ba06cf0c)
+
 
 
 ## Problem Statement:
